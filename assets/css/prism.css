@@ -169,6 +169,7 @@ pre[data-line] {
 
 pre.code-toolbar {
 	position: relative;
+	margin-bottom: 28px;
 }
 
 pre.code-toolbar > .toolbar {
