@@ -2,7 +2,13 @@
 
 Loads PrimsJS on single posts for syntax highlighting.
 
+## Screenshots ##
+
 ![Screenshot](https://github.com/srikat/WP-PrismJS/blob/master/screenshot-1.png?raw=true "Screenshot")
+
+Click to copy:
+
+![Click to copy Screenshot](https://github.com/srikat/WP-PrismJS/blob/master/screenshot-2.png?raw=true "Click to copy Screenshot")
 
 ## Description ##
 
