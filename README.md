@@ -2,6 +2,8 @@
 
 Loads PrimsJS on single posts for syntax highlighting.
 
+![Screenshot](https://github.com/srikat/WP-PrismJS/blob/master/screenshot-1.png?raw=true "Screenshot")
+
 ## Description ##
 
 Included Themes:
